@@ -15,7 +15,7 @@ Most code editors like Visual Studio Code, Atom, and Sublime support Markdown. L
 
 ## Online Editors
 
-There are a many online editors to choose from. Here are a few:
+There are many online editors to choose from. Here are a few:
 
 For the most part, they do the same thing. However, some have more (or less) functionality to offer. Try each one for size to see what works best for you.
 

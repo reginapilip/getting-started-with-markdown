@@ -9,6 +9,6 @@ Here is a compilation of resources you may find useful.
 - [Markdown Here](https://markdown-here.com/ "Markdown for Email") (Markdown for Email)
 
 ## Quick Reference
-- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links "Cheat Sheet by Adam Pritchard") (useful for quick syntax lookup)
+- [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheat Sheet by Adam Pritchard") (useful for quick syntax lookup)
 - [Markdown Here Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "Cheat Sheet by Adam Pritchard") (Markdown for Email Cheatsheet)
 - [Markdown Resources](https://github.com/mundimark/awesome-markdown)

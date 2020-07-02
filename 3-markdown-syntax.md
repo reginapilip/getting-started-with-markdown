@@ -1,6 +1,6 @@
 # Markdown Syntax
 
-This is an introduction to the *basic* Markdown syntax. Markdown has an *extended *syntax* and lots more to it than what this short lesson offers. 
+This is an introduction to the *basic* Markdown syntax. Markdown has an *extended syntax*. 
 
 If you want to learn more, visit the **Markdown Resources** lesson in this repository.
 
@@ -18,7 +18,7 @@ If you want to learn more, visit the **Markdown Resources** lesson in this repos
     - [Ordered Lists](#ordered-lists)
     - [Unordered Lists](#unordered-lists)
     - [Nesting Lists](#nesting-lists)
-    - [Incorporating elements within Lists](#incorporating-elements-within-lists)
+    - [Incorporating Elements within Lists](#incorporating-elements-within-lists)
   - [Code](#code)
     - [Inline Code](#inline-code)
     - [Escaping Backticks](#escaping-backticks)
@@ -178,7 +178,7 @@ There are two types of lists: **Ordered Lists** and **Unordered Lists**
     - Nested list item
 ```
 
-### Incorporating elements within Lists
+### Incorporating Elements within Lists
 
 ```markdown
 - List item 1 
