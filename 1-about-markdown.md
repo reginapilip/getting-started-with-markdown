@@ -16,6 +16,8 @@ Take a look:
 ```
 
 ```markdown
+# What is Markdown?
+
 Markdown is a **lightweight markup language** created by John Gruber in 2004.
 ```
 
