@@ -4,14 +4,13 @@ Markdown is integrated in many tools, apps, and websites, so you have a lot to c
 
 Here are some options to get you started:
 
-## Code Editors
+\* Some of these are not free
 
-Most code editors like Visual Studio Code, Atom, and Sublime support Markdown. Look up your editor's documentation for specific instructions on how to start using Markdown within that editor.
+## Text Editors
 
-- [Download Visual Studio Code (what I use!)](https://code.visualstudio.com/download)
-- [Download Atom](https://atom.io/)
-- [Download Sublime](https://www.sublimetext.com/)
-
+- [Typora](https://typora.io/)
+- [iA Writer](https://ia.net/writer)
+- [Ulysses](https://ulysses.app/)
 
 ## Online Editors
 
@@ -23,6 +22,15 @@ For the most part, they do the same thing. However, some have more (or less) fun
 - [StackEdit](https://stackedit.io/)
 - [Minimalist Online Markdown Editor](https://markdown.pioul.fr/)
 - [Haroopad](http://pad.haroopress.com/)
+
+## Code Editors
+
+Most code editors like Visual Studio Code, Atom, and Sublime support Markdown. Look up your editor's documentation for specific instructions on how to start using Markdown within that editor.
+
+- [Download Visual Studio Code (what I use!)](https://code.visualstudio.com/download)
+- [Download Atom](https://atom.io/)
+- [Download Sublime](https://www.sublimetext.com/)
+
 
 ## Visual Studio Code Tips
 
