@@ -21,7 +21,6 @@ If you want to learn more, visit the **Markdown Resources** lesson in this repos
     - [Incorporating Elements within Lists](#incorporating-elements-within-lists)
   - [Code](#code)
     - [Inline Code](#inline-code)
-    - [Escaping Backticks](#escaping-backticks)
     - [Fenced Code Blocks](#fenced-code-blocks)
   - [Links](#links)
   - [Images](#images)
@@ -213,13 +212,6 @@ There are two types of lists: **Ordered Lists** and **Unordered Lists**
 ```markdown
 <!-- use single back ticks -->
 Type in `<h1>Hello World!</h1>` within the body tag of your HTML file.
-```
-
-### Escaping Backticks
-If you have backticks within inline code, you can escape them by wrapping the code with two backticks, like this:
-
-```markdown
-``depending on your Markdown processor, you will use 3 backticks (```) or 3 tildes (~~~) for writing fenced code blocks``
 ```
 
 ### Fenced Code Blocks
