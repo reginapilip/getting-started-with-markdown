@@ -2,7 +2,7 @@
 
 Markdown is integrated in many tools, apps, and websites, so you have a lot to choose from. 
 
-Here are some options to get you started:
+Here are some options to get you started. For an extended list, visit: https://www.markdownguide.org/tools/
 
 \* Some of these are not free
 
